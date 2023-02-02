@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27153B68298C452A00A57E7F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27153B67298C452A00A57E7F /* SecondViewController.swift */; };
 		279A6B0429892ECE004E7DD2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279A6B0329892ECE004E7DD2 /* AppDelegate.swift */; };
 		279A6B0629892ECE004E7DD2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279A6B0529892ECE004E7DD2 /* SceneDelegate.swift */; };
 		279A6B0829892ECE004E7DD2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279A6B0729892ECE004E7DD2 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		27153B67298C452A00A57E7F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		279A6B0029892ECE004E7DD2 /* Stackview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stackview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		279A6B0329892ECE004E7DD2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		279A6B0529892ECE004E7DD2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				279A6B0529892ECE004E7DD2 /* SceneDelegate.swift */,
 				279A6B0729892ECE004E7DD2 /* ViewController.swift */,
 				279A6B0929892ECE004E7DD2 /* Main.storyboard */,
+				27153B67298C452A00A57E7F /* SecondViewController.swift */,
 				279A6B0F29892ECF004E7DD2 /* Assets.xcassets */,
 				279A6B1129892ECF004E7DD2 /* LaunchScreen.storyboard */,
 				279A6B1429892ECF004E7DD2 /* Info.plist */,
@@ -144,6 +147,7 @@
 				279A6B0829892ECE004E7DD2 /* ViewController.swift in Sources */,
 				279A6B0429892ECE004E7DD2 /* AppDelegate.swift in Sources */,
 				279A6B0629892ECE004E7DD2 /* SceneDelegate.swift in Sources */,
+				27153B68298C452A00A57E7F /* SecondViewController.swift in Sources */,
 				279A6B0E29892ECE004E7DD2 /* Stackview.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
